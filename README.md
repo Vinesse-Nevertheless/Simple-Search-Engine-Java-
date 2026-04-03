@@ -53,6 +53,7 @@ Erick Burgess
 ### Example Search (Strategy: ALL)
 **Query:** `Erick Harrington`  
 **Result:** `1 persons found: Erick Harrington harrington@gmail.com`
+**Memory:** `Optimized using HashSet to prevent duplicate record retrieval.`
 
 ### 🏗️ Architecture
 The project is structured into distinct classes to follow **SOLID** principles:
