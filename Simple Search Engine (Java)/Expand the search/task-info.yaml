@@ -1,0 +1,14 @@
+type: edu
+files:
+  - name: src/search/Main.java
+    visible: true
+    learner_created: false
+  - name: test/SimpleSearchEngineTest.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/66/stages/355/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 30 Mar 2026 23:57:35 UTC"
+record: 2
